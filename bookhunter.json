@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bibliolater/bookhunter/releases/download/v0.1.0/bookhunter_0.1.0_windows_amd64.zip",
+            "bin": [
+                "bookhunter_0.1.0_windows_amd64/bookhunter.exe"
+            ],
+            "hash": "5f20ec3706e9286755d7fa44cdd648836ad6374575245472552c7ee7ceb0f30b"
+        }
+    },
+    "homepage": "https://github.com/bibliolater",
+    "license": "MIT",
+    "description": "Software to download chinese ebooks from Internet."
+}
