@@ -1,19 +1,19 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/bibliolater/bookhunter/releases/download/v0.5.0/bookhunter_0.5.0_windows_386.zip",
+            "url": "https://github.com/bibliolater/bookhunter/releases/download/v0.5.1/bookhunter_0.5.1_windows_386.zip",
             "bin": [
-                "bookhunter_0.5.0_windows_386/bookhunter.exe"
+                "bookhunter_0.5.1_windows_386/bookhunter.exe"
             ],
-            "hash": "280fa3181af26a220b6f19d9b19388af57bca5c10cfd0ef15dfe9bc3da0c7902"
+            "hash": "b54d785140d531d38683ccedc88ab7e34256c4c78fe1937496f808995de936d8"
         },
         "64bit": {
-            "url": "https://github.com/bibliolater/bookhunter/releases/download/v0.5.0/bookhunter_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/bibliolater/bookhunter/releases/download/v0.5.1/bookhunter_0.5.1_windows_amd64.zip",
             "bin": [
-                "bookhunter_0.5.0_windows_amd64/bookhunter.exe"
+                "bookhunter_0.5.1_windows_amd64/bookhunter.exe"
             ],
-            "hash": "8edc40a64364ec6abbb81e4b380e57fa322a8d36aa6678f6e09fb99e18506364"
+            "hash": "eee76757633ed0928427c8cd52991a90e0559b2c4c7403dd3d5e3682f21f17fc"
         }
     },
     "homepage": "https://github.com/bibliolater",
