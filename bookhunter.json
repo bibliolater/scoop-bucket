@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/bookstairs/bookhunter/releases/download/v0.7.0/bookhunter_0.7.0_windows_386.zip",
+            "url": "https://github.com/bookstairs/bookhunter/releases/download/v0.8.0/bookhunter_0.8.0_windows_386.zip",
             "bin": [
-                "bookhunter_0.7.0_windows_386/bookhunter.exe"
+                "bookhunter_0.8.0_windows_386/bookhunter.exe"
             ],
-            "hash": "b972e12972f7cfaf41bc0cee3e25dcd84bd043d269457314c7ddbaa9146ee88e"
+            "hash": "d15cc221545f0bfc7b63832de9d034fad3839ae85649cefba6c232fc157ff376"
         },
         "64bit": {
-            "url": "https://github.com/bookstairs/bookhunter/releases/download/v0.7.0/bookhunter_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/bookstairs/bookhunter/releases/download/v0.8.0/bookhunter_0.8.0_windows_amd64.zip",
             "bin": [
-                "bookhunter_0.7.0_windows_amd64/bookhunter.exe"
+                "bookhunter_0.8.0_windows_amd64/bookhunter.exe"
             ],
-            "hash": "60d454dc659e781171aa56e16e21739841ed7b9618520ed1eab92136524f49a1"
+            "hash": "0484dda8182e1296eeff3ea967d4f41225c7cbf49ca4ef7df39e48b5af5c6fe2"
         }
     },
     "homepage": "https://github.com/bookstairs",
